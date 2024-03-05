@@ -1,9 +1,8 @@
 ### Rasim Mamutov 👋
 
-<!--
-**Rasimilian/Rasimilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rasimilian)](https://github.com/Rasimilian/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasimilian&layout=compact&theme=highcontrast)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasimilian&show_icons=true&theme=highcontrast)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rasimilian)](https://github.com/Rasimilian/github-readme-stats)
 
 - 🔭 I’m currently working on accelerator optics correction
 - 🌱 I’m currently learning C++
