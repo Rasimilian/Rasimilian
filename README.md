@@ -3,9 +3,16 @@
 <center>
   <table>
     <tr>
-        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasimilian&layout=compact&theme=highcontrast" /></td>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rasimilian&show_icons=true&theme=highcontrast" width="380" /></td>
-        <td><img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mamutov&theme=highcontrast&custom_title=Time+Spent&card_height=620" width="380"></td>
+        <td><img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasimilian&layout=compact&theme=highcontrast" /></td>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rasimilian&show_icons=true&theme=highcontrast&custom_title=GitHub+Stats" width="380"></td>
+    </tr>
+  </table>
+</center>
+
+<center>
+  <table>
+    <tr>
+        <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mamutov&theme=highcontrast&custom_title=Time+Spent&card_height=620" width="500"></td>
     </tr>
   </table>
 </center>
