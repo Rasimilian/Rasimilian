@@ -12,7 +12,7 @@
 <center>
   <table>
     <tr>
-        <td><img width="430px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mamutov&theme=highcontrast&custom_title=Time+Spent&card_height=620" width="500"></td>
+        <td><img width="430px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mamutov&theme=highcontrast&custom_title=Time+Spent&card_height=620&langs_count=5" width="500"></td>
     </tr>
   </table>
 </center>
