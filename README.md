@@ -17,9 +17,11 @@
   </table>
 </center>
 
-- 🔭 I’m currently working on particle accelerator optics correction
+[![wakatime](https://wakatime.com/badge/user/018e0f40-4382-428d-90c5-44c010ab73d8.svg)](https://wakatime.com/@018e0f40-4382-428d-90c5-44c010ab73d8)
+
+- 🔭 At the moment, I am in the process of mastering the techniques for controlling particle accelerator optics
 - 🌱 I’m currently learning programming
 - 👯 I’m looking to collaborate on machine learning projects
 - 💬 Ask me about "life after completing a PhD"
 - 📫 How to reach me: r_mamutov@mail.ru
-- ⚡ Fun fact: I'd rather eat milk chocolate than dark chocolate
+- ⚡ Fun fact: Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid of Giza
